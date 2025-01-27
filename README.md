@@ -11,8 +11,9 @@ A aplicação será construída com base em princípios modernos de computação
 - [X] Azure Functon Core Tolls.
 
 <br>
+
 > [!NOTE]
-> No meu caso fiz uso do Visual Studio code.>Instalei os seguintes plugins:<br>
+> No meu caso fiz uso do Visual Studio code.Instalei os seguintes plugins:<br>
 
   - [X].NET Install Tool
   - [X] Azure Functions(Para trabalhar com - - [X]functions Localmente)
@@ -54,7 +55,7 @@ Azure Functions:Create Function App in azure...
 
 <br>
 
-**6-) De a seguinte instrução para criar a function no Azure.
+**6-) De a seguinte instrução para criar a function no Azure.**
 
 ```vscode
     func new
@@ -82,27 +83,18 @@ Após o termino do deploy não será mais possível acesso sem authenticação, 
    - acesse a function pelo portal Azure
       - Vá até function
       - App Keys.Nesta pagina será possível veficar a chave **Defaut** a qual faremos uso.
-
-Sem a chave de acesso:
 <br>
 
-/media/adriano-silva/ProjetosCursos/Levar para o Google drive/Projetos e BootCamps/Para Finalizar/Bootcamp Microsoft Certification Challenge AZ-204 Ano 2025/HandsOn-Serveless-Valida CPF/Bootcamp-Microsoft-Certification-Challenge-AZ204/images/SemAutentiacao.png
-
 Localizaçã da Chave no Portal Azure:
-
-/media/adriano-silva/ProjetosCursos/Levar para o Google drive/Projetos e BootCamps/Para Finalizar/Bootcamp Microsoft Certification Challenge AZ-204 Ano 2025/HandsOn-Serveless-Valida CPF/Bootcamp-Microsoft-Certification-Challenge-AZ204/images/PortalAzure.png
+![Localizacao](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Microsoft-Certification-Challenge-AZ204/blob/main/images/PortalAzure.png)
 
 <br>
 
 Configurando no Postman:
 
-/media/adriano-silva/ProjetosCursos/Levar para o Google drive/Projetos e BootCamps/Para Finalizar/Bootcamp Microsoft Certification Challenge AZ-204 Ano 2025/HandsOn-Serveless-Valida CPF/Bootcamp-Microsoft-Certification-Challenge-AZ204/images/Colocar chave de acesso.png
+![Configurando](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Microsoft-Certification-Challenge-AZ204/blob/main/images/Colocar%20chave%20de%20acesso.png)
 
-
-Resultado da mesma chamada via postman, após as devidas configurações.
-
-<br>
-/media/adriano-silva/ProjetosCursos/Levar para o Google drive/Projetos e BootCamps/Para Finalizar/Bootcamp Microsoft Certification Challenge AZ-204 Ano 2025/HandsOn-Serveless-Valida CPF/Bootcamp-Microsoft-Certification-Challenge-AZ204/images/Apos a insercao da chave.png
+![params](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Microsoft-Certification-Challenge-AZ204/blob/main/images/Apos%20a%20insercao%20da%20chave.png)
 
 
 
